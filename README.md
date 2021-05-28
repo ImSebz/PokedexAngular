@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Required
 
-Install the node_modules folder with `npm i` after you clone this repository.
+Install the node_modules folder with `npm i` of `npm install` after you clone this repository.
 
 ## Development server
 
